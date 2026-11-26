@@ -7,7 +7,7 @@ A browser-based 3D interactive Christmas tree page with gesture control, photo s
 - Desktop (full experience): https://cchantelhu.github.io/christmas-tree/
 - Mobile lite: https://cchantelhu.github.io/christmas-tree/?lite=1
 
-On phones, Safari or Chrome is recommended. If the WeChat in-app browser cannot access the camera, choose “Open in Safari.”
+On phones, Safari or Chrome is recommended. 
 
 ## How to use
 
